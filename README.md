@@ -1,4 +1,4 @@
-# Reading Journal 
+# Reading Journal
 
 ## Lab: 01b - Learning Markdown
 
