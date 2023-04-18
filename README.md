@@ -9,3 +9,4 @@ A growth mindset is the base foundation that addresses complex fixed reactions, 
 2. Is this my best? instead of "Good Enough" 
 3. This is a process instead of "This is hard"
 
+![alt text](image.jpg)
