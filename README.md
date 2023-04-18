@@ -6,7 +6,7 @@ A growth mindset is the base foundation that addresses complex fixed reactions, 
 
 ### Reminders  
 1. ~~I give up~~ What am I missing? 
-2. ~~This is gooed enough~~ Is this my best? 
+2. ~~This is good enough~~ Is this my best? 
 3. ~~This is hard~~ This is a process 
 
 ![alt text](Force.jpg)
