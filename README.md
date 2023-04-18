@@ -10,3 +10,4 @@ A growth mindset is the base foundation that addresses complex fixed reactions, 
 3. ~~This is hard~~ This is a process 
 
 ![alt text](Force.jpg)
+ 
