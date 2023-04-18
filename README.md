@@ -1,5 +1,7 @@
 # Reading Journal 
 
+## Lab: 01b - Learning Markdown
+
 A growth mindset is the base foundation that addresses complex fixed reactions, and negative responses with positive ideas towards finding solutions. 
 
 ### Reminders  
