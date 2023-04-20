@@ -22,7 +22,7 @@ Git is a DVCS that stores data in a file system made up of snapshots. Git mostly
 
 ![GIT](https://blog.udemy.com/wp-content/uploads/2015/08/image066.png)
 
-[Refrence entry](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)
+[Refrenced content above](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)
 
 
 
