@@ -42,8 +42,8 @@ git add * for all files
 
 ### What is the command to take a snapshot of your changed files?
 
-git commit -a
+git commit -m (Reason)
 
-### is the command to send your changed files to Github?
+### is the command to send your changed files to Github?### 
 
-git push origin master (dont forget orign master) 
+git push orgin main (dont forget orign main ) 
