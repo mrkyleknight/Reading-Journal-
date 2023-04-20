@@ -7,6 +7,8 @@ Markdown is a lightweight markup language that you can use to add formatting ele
 
 Using Markdown is different than using a WYSIWYG editor. In an application like Microsoft Word, you click buttons to format words and phrases, and the changes are visible immediately. Markdown isn’t like that. When you create a Markdown-formatted file, you add Markdown syntax to the text to indicate which words and phrases should look different.
 
+[Refrence Entry](https://www.markdownguide.org/getting-started/)
+
 ## Markdown Cheat Sheet
 
 ![Cheatsheet](https://th.bing.com/th/id/R.ba62ce6c22e47243b5878bad2b36c76d?rik=VrH1%2b2R3Wqc2pA&riu=http%3a%2f%2f4.bp.blogspot.com%2f-fc_lGGylfLM%2fUE3Qrdj507I%2fAAAAAAAAC4I%2fyS-xkITGyGk%2fs1600%2fMarkdown_cheatsheet.png&ehk=BP8WtkFCfNmUhqrBnWOBYVZbCMTCzuQnwKmFnX63Ejc%3d&risl=&pid=ImgRaw&r=0)
@@ -29,8 +31,6 @@ basic language that you can use to add formatting elements to plaintext text doc
 
 3. ***What symbol will create a heading in Markdown?*** # pound, hash, or number sign
    
-    
-
 
 4. ***How many do you need to create the largest heading?*** one # 
 
