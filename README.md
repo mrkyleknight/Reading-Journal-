@@ -32,7 +32,7 @@ Hello :wave:, I’m Kyle (He/Him). I live in Vancouver, WA :rain_cloud:. I used 
 
 - [201 Notes: Class 02](Class202)
 
-- [201 Notes: Class 03](Class203)
+- [201 Notes: Class 03- HTML Lists, Control Flow with JS, and the CSS Box Model](Class203)
 
 - [201 Notes: Class 04](Class204)
 

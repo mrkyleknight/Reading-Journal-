@@ -60,6 +60,6 @@ Semantics. *What exactly do I want to accomplish?*
 
 
 
-1. Describe 2 things that require JavaScript in the Browser? *HTML and CSS*
+1. Describe 2 things that require JavaScript in the Browser? *dynamic & API require JS*
 
 2. How can you add JavaScript to an HTML document? *< style > elements*
