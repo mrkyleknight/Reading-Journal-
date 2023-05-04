@@ -34,7 +34,7 @@ Hello :wave:, I’m Kyle (He/Him). I live in Vancouver, WA :rain_cloud:. I used 
 
 - [201 Notes: Class 03- HTML Lists, Control Flow with JS, and the CSS Box Model](Class203)
 
-- [201 Notes: Class 04](Class204)
+- [201 Notes: Class 04 - HTML Links, JS Functions, and Intro to CSS Layout](Class204)
 
 - [201 Notes: Class 05](Class205)
 
