@@ -36,7 +36,7 @@ Hello :wave:, I’m Kyle (He/Him). I live in Vancouver, WA :rain_cloud:. I used 
 
 - [201 Notes: Class 04 - HTML Links, JS Functions, and Intro to CSS Layout](Class204)
 
-- [201 Notes: Class 05](Class205)
+- [201 Notes: Class 05 - Readings: Images, Color, Text ](Class205)
 
 - [201 Notes: Class 06](Class206)
 
