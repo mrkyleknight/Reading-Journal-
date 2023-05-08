@@ -3,9 +3,9 @@
 
 ## Using Images In HTML. Read Common Image Types and Choosing Image Formats.
 
-1. What is a real world use case for the alt attribute being used in a website? Making websites more accessibile. 
+1. What is a real world use case for the alt attribute being used in a website? 
 
-*Displays text for a image when a user has slow internet.*
+*Making websites more accessible.Displays text for a image when a user has slow internet.*
 
 2. How can you improve accessibility of images in an HTML document? 
 

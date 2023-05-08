@@ -38,7 +38,7 @@ Hello :wave:, I’m Kyle (He/Him). I live in Vancouver, WA :rain_cloud:. I used 
 
 - [201 Notes: Class 05 - Readings: Images, Color, Text ](Class205)
 
-- [201 Notes: Class 06](Class206)
+- [201 Notes: Class 06 -Problem Domain, Objects, and the DOM ](Class206)
 
 - [201 Notes: Class 07](Class207)
 
