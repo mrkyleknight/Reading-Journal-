@@ -12,7 +12,7 @@
 
 3. How do objects differ from arrays?
 
-*Arrays are used when we want to create and store a list of multiple items in a single variable. Objects are used to represent a things in our code.*
+*Arrays are used when we want to create and store a list of multiple items in a single variable. Objects are used to represent things in our code.*
 
 4. Give an example for when you would need to use bracket notation to access an object’s property instead of dot notation.
 
