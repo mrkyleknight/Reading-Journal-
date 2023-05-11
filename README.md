@@ -44,7 +44,7 @@ Hello :wave:, I’m Kyle (He/Him). I live in Vancouver, WA :rain_cloud:. I used 
 
 - [201 Notes: Class 08 - CSS Layout ](Class208)
 
-- [201 Notes: Class 09](Class209)
+- [201 Notes: Class 09 - # HTML Forms and JS Events](Class209)
 
 - [201 Notes: Class 10](Class210)
 
