@@ -46,9 +46,9 @@ Hello :wave:, I’m Kyle (He/Him). I live in Vancouver, WA :rain_cloud:. I used 
 
 - [201 Notes: Class 09 - # HTML Forms and JS Events](Class209)
 
-- [201 Notes: Class 10](Class210)
+- [201 Notes: Class 10 - Debugging](Class210)
 
-- [201 Notes: Class 11](Class211)
+- [201 Notes: Class 11 - Audio, Video, Images](Class211)
 
 - [201 Notes: Class 12](Class212)
 
