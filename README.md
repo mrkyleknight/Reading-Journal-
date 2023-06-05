@@ -8,7 +8,7 @@ Hello :wave:, I’m Kyle (He/Him). I live in Vancouver, WA :rain_cloud:. I used 
 
 ## Table of Contents
 
-### Code 102 Reading Notes
+## Code 102 - Intro to Software Development
 
 - [102 Notes: Class 01 - Learning Markdown](Class101)
 
@@ -26,7 +26,7 @@ Hello :wave:, I’m Kyle (He/Him). I live in Vancouver, WA :rain_cloud:. I used 
 
 - [102 Notes: Class 08 - Operators and Loops](Class108)
 
-### Code 201 Reading Notes
+## Code 201 - Foundations of Software Development
 
 - [201 Notes: Class 01](Class201)
 
@@ -57,3 +57,5 @@ Hello :wave:, I’m Kyle (He/Him). I live in Vancouver, WA :rain_cloud:. I used 
 - [201 Notes: Class 14](Class214)
 
 - [201 Notes: Class 15](Class215)
+
+## Code 301 - Intermediate Software Development
