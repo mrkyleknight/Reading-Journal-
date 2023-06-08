@@ -60,4 +60,8 @@ Hello :wave:, I’m Kyle (He/Him). I live in Vancouver, WA :rain_cloud:. I used 
 
 ## Code 301 - Intermediate Software Development
 
-- [301 Notes: Class 02](Class302)
+[301 Notes: Class 02](Class302)
+
+[301 Notes: Class 03](Class303)
+
+[301 Notes: Class 03](Class304)
