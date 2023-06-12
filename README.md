@@ -67,3 +67,5 @@ Hello :wave:, I’m Kyle (He/Him). I live in Vancouver, WA :rain_cloud:. I used 
 [301 Notes: Class 04](Class304)
 
 [301 Notes: Class 05](Class305)
+
+[301 Notes: Class 06](Class306)
