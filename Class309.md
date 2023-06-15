@@ -1,57 +1,51 @@
-# NODE.JS
-
-What is node.js?
-
-*Node.js is a runtime environment that allows running JavaScript code outside of a web browser*
-
-In your own words, what is Chrome’s V8 JavaScript Engine?
-
-*high-performance JavaScript engine used by Chrome and Node.js to execute JavaScript code.*
-
-What does it mean that node is a JavaScript runtime?
-
-*it provides an environment for executing JavaScript code outside of a web browser.*
-
-What is npm?
-
-*allows developers to easily manage and share reusable JavaScript code packages.*
-
-What version of node are you running on your machine?
-
-v19.9.0
-
-What version of npm are you running on your machine?
-
-9.6.3
-
-What command would you type to install a library/package called ‘jshint’?
-
-*npm install jshint*
-
-What is node used for?
-
-*building server-side applications, networking tools, command-line utilities*
-
-## 6 Reasons for Pair Programming
-
-What are the 6 reasons for pair programming?
-
-*ncreased code quality, faster problem-solving, knowledge sharing, better collaboration, improved learning, and reduced development time.
-In my experience, improved collaboration and faster problem-solving have been the most beneficial aspects of pair programming.*
-
-In your experience, which of these reasons have you found most beneficial?
-
-*improved collaboration and faster problem-solving*
-
-How does pair programming work?
-
-*involves two developers working together on the same code*
-
-Resources: 
-
-https://www.sitepoint.com/an-introduction-to-node-js/
-
-https://www.codefellows.org/blog/6-reasons-for-pair-programming/
+# Functional Programming
 
 
+## Functional Programming Concepts
 
+What is functional programming?
+
+is a programming style that focuses on using functions to perform tasks and avoids changing data directly.
+
+What is a pure function and how do we know if something is a pure function?
+
+ a function that consistently gives the same output for the same input and doesn't cause any unintended changes.
+
+What are the benefits of a pure function?
+
+ they are predictable, easy to test, reusable, and can be executed concurrently without issues.
+
+
+What is immutability?
+
+ data that cannot be changed once it is created, promoting reliability and efficient change detection.
+
+What is Referential transparency?
+ a function's output can be replaced with its computed value without affecting the program's behavior
+
+## Node JS Tutorial for Beginners #6 - Modules and require()
+
+What is a module?
+
+its a self-contained piece of code that encapsulates related functionality, variables, and data, allowing for modular and organized code structure.
+
+What does the word ‘require’ do?
+
+The word 'require' is used in Node.js to import or include external modules into a file, making their functionality accessible in the current file.
+
+How do we bring another module into the file the we are working in?
+
+To bring another module into the file we are working in, we use the 'require' function followed by the module's path or name.
+
+What do we have to do to make a module available?
+
+To make a module available, it needs to be installed either globally or locally in the project using a package manager like npm
+
+
+Resources:
+
+https://medium.com/the-renaissance-developer/concepts-of-functional-programming-in-javascript-6bc84220d2aa
+
+https://www.youtube.com/watch?v=xHLd36QoS4k
+
+https://chat.openai.com/

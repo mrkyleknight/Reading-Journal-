@@ -1,50 +1,57 @@
-#APIs
+# NODE.JS
 
-What does REST stand for?
+What is node.js?
 
-*Representational State Transfer*
+*Node.js is a runtime environment that allows running JavaScript code outside of a web browser*
 
-REST APIs are designed around a ____.
+In your own words, what is Chrome’s V8 JavaScript Engine?
 
-*a client-server architecture.*
+*high-performance JavaScript engine used by Chrome and Node.js to execute JavaScript code.*
 
-What is an identifier of a resource? Give an example.
+What does it mean that node is a JavaScript runtime?
 
-*/users/123*
+*it provides an environment for executing JavaScript code outside of a web browser.*
 
-What are the most common HTTP verbs?
+What is npm?
 
-*GET, POST, PUT, PATCH, and DELETE*
+*allows developers to easily manage and share reusable JavaScript code packages.*
 
-What should the URIs be based on?
+What version of node are you running on your machine?
 
-*esources being accessed or manipulated.*
+v19.9.0
 
-Give an example of a good URI.
+What version of npm are you running on your machine?
 
-*/api/products/123*
+9.6.3
 
-What does it mean to have a ‘chatty’ web API? Is this a good or a bad thing?
+What command would you type to install a library/package called ‘jshint’?
 
-*generally considered bad practice as it can lead to inefficient communication*
+*npm install jshint*
 
-What status code does a successful GET request return?
+What is node used for?
 
-*eturns the status code 200*
+*building server-side applications, networking tools, command-line utilities*
 
-What status code does an unsuccessful GET request return?
+## 6 Reasons for Pair Programming
 
-*404 Not Found*
+What are the 6 reasons for pair programming?
 
-What status code does a successful POST request return?
+*ncreased code quality, faster problem-solving, knowledge sharing, better collaboration, improved learning, and reduced development time.
+In my experience, improved collaboration and faster problem-solving have been the most beneficial aspects of pair programming.*
 
-*returns the status code 201 (Created) or 200 *
+In your experience, which of these reasons have you found most beneficial?
 
-What status code does a successful DELETE request return?
+*improved collaboration and faster problem-solving*
 
-*returns the status code 204*
+How does pair programming work?
 
-Resources:
+*involves two developers working together on the same code*
 
-https://learn.microsoft.com/en-us/azure/architecture/best-practices/api-design
+Resources: 
+
+https://www.sitepoint.com/an-introduction-to-node-js/
+
+https://www.codefellows.org/blog/6-reasons-for-pair-programming/
+
+
 
