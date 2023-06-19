@@ -70,11 +70,13 @@ Hello :wave:, I’m Kyle (He/Him). I live in Vancouver, WA :rain_cloud:. I used 
 
 [301 Notes: Class 06](Class306)
 
-[301 Notes: Class 06](Class307)
+[301 Notes: Class 07](Class307)
 
-[301 Notes: Class 06](Class308)
+[301 Notes: Class 08](Class308)
 
 [301 Notes: Class 09](Class309)
 
 
-[301 Notes: Class 06](Class310)
+[301 Notes: Class 10](Class310)
+
+[301 Notes: Class 11](Class311)
