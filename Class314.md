@@ -24,4 +24,5 @@ Give an example of how a diverse company can serve a diverse user base or vise-v
 *creating a language translation application that not only focuses on widely spoken languages but also includes less common languages*
 
 
-"That brain of mine is something more than merely mortal; as time will show." Although it's not directly about women and coding, it underscores the potential that women have in fields traditionally dominated by men, like computer science." Ada Lovelace  (the world's first computer programmer)
+"That brain of mine is something more than merely mortal; as time will show." Ada Lovelace  (the world's first computer programmer)
+
