@@ -85,3 +85,35 @@ Hello :wave:, I’m Kyle (He/Him). I live in Vancouver, WA :rain_cloud:. I used 
 [301 Notes: Class 13](Class313)
 
 [301 Notes: Class 14](Class314)
+
+## Code 401 - Advanced Software Development in Java
+
+
+[401 Notes: Class 01](Class401)
+
+[401 Notes: Class 02](Class302)
+
+[401 Notes: Class 03](Class303)
+
+[401 Notes: Class 04](Class304)
+
+[401 Notes: Class 05](Class305)
+
+[401 Notes: Class 06](Class306)
+
+[401 Notes: Class 07](Class307)
+
+[401 Notes: Class 08](Class308)
+
+[401 Notes: Class 09](Class309)
+
+[401 Notes: Class 10](Class310)
+
+[401 Notes: Class 11](Class311)
+
+[401 Notes: Class 12](Class312)
+
+[401 Notes: Class 13](Class313)
+
+[401 Notes: Class 14](Class314)
+
