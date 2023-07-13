@@ -1,44 +1,42 @@
-# Java Basics
+## Primitives vs. Objects
 
-What does “strong typed” mean?
+Explain the difference between an “int” and an “Integer” in Java?
 
-*Variables have specific data types and their usage is strictly enforced*
+*int is a primitive data type that holds a single 32-bit integer value, while Integer is a class that wraps an int value and provides additional methods and functionalities.*
 
-What are the primitive data types?
+What is the default value for ints? Integers?
 
-*boolean, byte, short, int, long, float, double, char, void.*
+*The default value for int is 0, while the default value for Integer is null*
 
-
-## XKCD: Compiling
-
-Explain to a non-technical friend the difference in how compilation works in Java and JavaScript.
-
-*Java compiles code before execution, while JavaScript interprets code directly during execution.*
-
-Does code complining mean that it works correctly?
-
-*Code compilation does not guarantee that the code will work correctly; it primarily checks for syntax errors*
+What is autoboxing? Unboxing?
 
 
-## Reading Java Documentation
+## Exceptions in Java (read the first three sections on the left: What is an Exception, The Catch or Specify Requirement, Catching and Handling Exceptions)
 
-How many keywords does Java have?
+List the three basic categories of exceptions?
 
-*Java has 51 keywords.*
+*The three basic categories of exceptions in Java are: checked exceptions, unchecked exceptions, and errors*
 
-How do you print words to the console in Java?
+What type of statement can you use to handle an exception?
 
-*System.out.println() method*
+*you can use a try-catch statement to handle exceptions.*
 
 
+## Using Scanner to read in a file in Java
+
+Describe a situation where you think it would be useful to have a program that scans text.
+
+*A program that scans text is useful for extracting and analyzing specific information from a large body of text.*
+
+What is input from a Scanner broken down into?
+
+ *Individual tokens, which are separated based on the specified delimiters, such as whitespace, newlines, or custom delimiters.*
 
 References:
 
-https://canvas.instructure.com/courses/7139363/discussion_topics/18669331
+https://www.baeldung.com/java-primitives-vs-objects
 
-https://xkcd.com/303/
+https://docs.oracle.com/javase/tutorial/essential/exceptions/index.html
 
-https://www.dummies.com/category/articles/java-33602/
-
-
+https://docs.oracle.com/javase/tutorial/essential/io/scanning.html
 
