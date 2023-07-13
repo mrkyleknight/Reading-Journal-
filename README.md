@@ -91,11 +91,11 @@ Hello :wave:, I’m Kyle (He/Him). I live in Vancouver, WA :rain_cloud:. I used 
 
 [401 Notes: Class 01](Class401)
 
-[401 Notes: Class 02](Class302)
+[401 Notes: Class 02](Class402)
 
-[401 Notes: Class 03](Class303)
+[401 Notes: Class 03](Class403)
 
-[401 Notes: Class 04](Class304)
+[401 Notes: Class 04](Class404)
 
 [401 Notes: Class 05](Class305)
 
