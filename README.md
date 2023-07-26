@@ -105,9 +105,9 @@ Hello :wave:, I’m Kyle (He/Him). I live in Vancouver, WA :rain_cloud:. I used 
 
 [401 Notes: Class 09](Class409)
 
-[401 Notes: Class 09](Class309)
+[401 Notes: Class 10](Class411)
 
-[401 Notes: Class 10](Class310)
+[401 Notes: Class 10](Class412)
 
 [401 Notes: Class 11](Class311)
 
