@@ -119,3 +119,6 @@ Hello :wave:, I’m Kyle (He/Him). I live in Vancouver, WA :rain_cloud:. I used 
 
 [401 Notes: Class 18](Class418)
 
+
+[401 Notes: Class 19](Class419)
+
