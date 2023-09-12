@@ -1,4 +1,4 @@
-
+[Title](Class432.md)
 # Hash tables 
 
 ### WHY: Hash tables are like magic boxes that find your stuff super fast because they don't like waiting.

@@ -134,3 +134,22 @@ Hello :wave:, I’m Kyle (He/Him). I live in Vancouver, WA :rain_cloud:. I used 
 [401 Notes: Class 31](Class431)
 
 [401 Notes: Class 32](Class432)
+
+[401 Notes: Class 33](Class433)
+
+[401 Notes: Class 34](Class434)
+
+[401 Notes: Class 35](Class435)
+
+[401 Notes: Class 36](Class436)
+
+[401 Notes: Class 37](Class437)
+
+[401 Notes: Class 39](Class439)
+
+[401 Notes: Class 41](Class441)
+
+[401 Notes: Class 42](Class442)
+
+[401 Notes: Class 43](Class443)
+
